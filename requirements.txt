@@ -1,4 +1,5 @@
+pyTelegramBotAPI
 aiohttp
-opencv-python
 ddddocr
-pyTelegramBot
+opencv-python-headless
+numpy
